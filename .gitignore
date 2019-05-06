@@ -1,0 +1,3 @@
+smartbank-module/.terraform
+smartbank-module/terraform.tfstate
+smartbank-module/.terraform.tfstate.lock.info
