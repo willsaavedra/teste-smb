@@ -38,7 +38,7 @@ terraform init
 terraform plan
 ```
 
-# Variaveis a serem preenchidas
+# Variaveis
 
 **Chave AWS**
 
