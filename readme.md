@@ -1,4 +1,4 @@
-# Preparando ambiente
+# Teste Terraform - SMB DevOps
 
 **Para rodar o ambiente é necessario alguns pré-requisitos:**
 
