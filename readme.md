@@ -34,8 +34,17 @@ cd ./smartbank-env
 # Terraform Init
 terraform init
 
-# Gerando o plano de execução
+# Plan
 terraform plan
+
+# Apply
+terraform apply
+
+# Apply with auto approve
+terraform apply --auto-approve
+
+# Destroy with force
+terraform destroy --force
 ```
 
 # Variaveis
